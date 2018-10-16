@@ -13,3 +13,7 @@ https://dzone.com/articles/easily-automate-your-cicd-pipeline-with-jenkins-he
 https://fixate.io/wp-content/uploads/2016/02/documenting-DevOps.pdf
 
 https://www.theserverside.com/tip/Continuous-DevOps-documentation-Its-a-necessity
+
+AWS Interview Questions
+
+https://visualpathdevopsinterviewquestions.blogspot.com/2018/10/aws-interview-questions-visualpath.html?spref=fb&m=1

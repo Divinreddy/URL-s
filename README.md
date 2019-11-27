@@ -17,3 +17,10 @@ https://www.theserverside.com/tip/Continuous-DevOps-documentation-Its-a-necessit
 AWS Interview Questions
 
 https://visualpathdevopsinterviewquestions.blogspot.com/2018/10/aws-interview-questions-visualpath.html?spref=fb&m=1
+
+
+
+
+Skaffold
+
+https://cloud.google.com/blog/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga

@@ -1,7 +1,13 @@
 # URL's
 For Future Reference
+==============================================
+Azure Devops --- CI/CD
+==============================================
 
 https://www.youtube.com/watch?v=v13xMlewnYc&list=PLNMUSSKcxKjeMSpGfi_F3aMRrjDrMcdQ4
+https://www.youtube.com/watch?v=HMIxLaisKiI
+
+
 
 
 

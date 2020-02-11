@@ -4,6 +4,12 @@ For Future Reference
 Azure Devops --- CI/CD
 ==============================================
 
+
+https://medium.com/@Alibaba_Cloud/routing-applications-in-kubernetes-with-nginx-ingress-987ec366120d
+https://medium.com/google-cloud/understanding-kubernetes-networking-ingress-1bc341c84078
+https://itnext.io/kubernetes-ingress-controllers-how-to-choose-the-right-one-part-1-41d3554978d2
+
+
 https://www.youtube.com/watch?v=v13xMlewnYc&list=PLNMUSSKcxKjeMSpGfi_F3aMRrjDrMcdQ4
 https://www.youtube.com/watch?v=HMIxLaisKiI
 https://www.youtube.com/watch?v=ifek3H71uxQ

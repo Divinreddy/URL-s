@@ -46,3 +46,5 @@ Skaffold
 https://storage.googleapis.com/skaffold/builds/latest/docs/index.html
 
 https://cloud.google.com/blog/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga
+
+https://cheatsheet.dennyzhang.com/cheatsheet-kubernetes-A4
